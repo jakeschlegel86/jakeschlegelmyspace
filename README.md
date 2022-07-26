@@ -1,2 +1,2 @@
-# jakeschlegelmyspace.com
+# jakeschlegelmyspace
 My first site
